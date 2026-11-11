@@ -1,0 +1,235 @@
+{
+  "checkpoints": {
+    "inicio": {
+      "timestamp": "2026-11-06T07:40:37.270983",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "fase2.1-ocr": {
+      "timestamp": "2026-11-06T07:41:25.578677",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "600487.SS-fase2_web": {
+      "timestamp": "2026-11-05T06:36:28.898567",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "1519.HK-fase2-busqueda-web": {
+      "timestamp": "2026-11-05T06:37:01.210626",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "323410.KS-fase2-web": {
+      "timestamp": "2026-11-05T06:37:52.314463",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "002979.SZ-fase2-busqueda-web": {
+      "timestamp": "2026-11-05T06:38:10.152286",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "1519.HK-fase3-borrador1": {
+      "timestamp": "2026-11-05T06:45:07.896861",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "992.HK-fase2": {
+      "timestamp": "2026-11-06T07:42:58.064543",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "1860.HK-fase2": {
+      "timestamp": "2026-11-06T07:45:41.881798",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "3268.HK-fase2": {
+      "timestamp": "2026-11-06T07:46:40.575133",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    "2586.HK-Fase2": {
+      "timestamp": "2026-11-06T07:48:15.038424",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    }
+  },
+  "history": [
+    {
+      "checkpoint": "inicio",
+      "timestamp": "2026-11-05T06:34:20.597879",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "fase2.1-ocr",
+      "timestamp": "2026-11-05T06:35:02.276960",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "600487.SS-fase2_web",
+      "timestamp": "2026-11-05T06:36:28.898567",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "1519.HK-fase2-busqueda-web",
+      "timestamp": "2026-11-05T06:37:01.210626",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "323410.KS-fase2-web",
+      "timestamp": "2026-11-05T06:37:52.314463",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "002979.SZ-fase2-busqueda-web",
+      "timestamp": "2026-11-05T06:38:10.152286",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "1519.HK-fase3-borrador1",
+      "timestamp": "2026-11-05T06:45:07.896861",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "inicio",
+      "timestamp": "2026-11-06T07:40:37.270983",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "fase2.1-ocr",
+      "timestamp": "2026-11-06T07:41:25.578677",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "992.HK-fase2",
+      "timestamp": "2026-11-06T07:42:58.064543",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "1860.HK-fase2",
+      "timestamp": "2026-11-06T07:45:41.881798",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "3268.HK-fase2",
+      "timestamp": "2026-11-06T07:46:40.575133",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    },
+    {
+      "checkpoint": "2586.HK-Fase2",
+      "timestamp": "2026-11-06T07:48:15.038424",
+      "last_step_index": 7778,
+      "steps_with_tokens": 3776,
+      "cumulative_input_tokens": 18869925,
+      "cumulative_cache_read_tokens": 490179316,
+      "cumulative_output_tokens": 3307411,
+      "cumulative_total_tokens": 512356652
+    }
+  ]
+}

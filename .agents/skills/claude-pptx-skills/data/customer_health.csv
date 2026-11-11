@@ -1,0 +1,13 @@
+quarter,segment,nps,churn_pct
+FY25-Q1,Enterprise,58,3.4
+FY25-Q1,Mid-Market,44,4.1
+FY25-Q1,SMB,35,5.0
+FY25-Q2,Enterprise,59,3.2
+FY25-Q2,Mid-Market,45,3.9
+FY25-Q2,SMB,36,4.8
+FY25-Q3,Enterprise,60,3.0
+FY25-Q3,Mid-Market,46,3.6
+FY25-Q3,SMB,37,4.5
+FY25-Q4,Enterprise,61,2.7
+FY25-Q4,Mid-Market,47,3.2
+FY25-Q4,SMB,38,4.1

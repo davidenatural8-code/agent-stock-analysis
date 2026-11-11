@@ -1,0 +1,20 @@
+@"
+# Entornos y credenciales
+.env
+*.env
+secrets.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Cachés OCR, PDFs pesados y salidas generadas
+extracted_ocr_cache/
+input_pdfs/
+output/
+*.pdf
+*.pptx
+*.docx
+*.wav
+*.mp3
+"@ | Out-File -FilePath .gitignore -Encoding utf8

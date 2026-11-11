@@ -1,0 +1,16 @@
+pymupdf>=1.24.0
+python-docx>=1.1.0
+python-pptx>=0.6.23
+matplotlib>=3.8.0
+openpyxl>=3.1.2
+kokoro-onnx>=0.4.0
+soundfile>=0.12.1
+onnxruntime>=1.17.0
+lameenc>=1.7.0
+imageio-ffmpeg>=0.4.9
+numpy>=1.26.0
+pandas>=2.1.0
+Pillow>=10.2.0
+requests>=2.31.0
+yfinance>=0.2.36
+duckduckgo-search>=5.0.0

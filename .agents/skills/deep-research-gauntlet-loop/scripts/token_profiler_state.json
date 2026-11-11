@@ -1,0 +1,1043 @@
+{
+  "checkpoints": [
+    {
+      "checkpoint": "ALL_30_EXIT_0_60SLIDES_EXCEL_DONE",
+      "epoch_ms": 1794041518111,
+      "steps": 2308,
+      "input": 90371073,
+      "output": 7219728,
+      "delta_steps": 2308,
+      "delta_input": 90371073,
+      "delta_output": 7219728,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2308,
+          "input": 90371073,
+          "cache": 142691618,
+          "output": 7219728
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794052708406,
+      "steps": 2342,
+      "input": 91204608,
+      "output": 7304369,
+      "delta_steps": 34,
+      "delta_input": 833535,
+      "delta_output": 84641,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2342,
+          "input": 91204608,
+          "cache": 146562895,
+          "output": 7304369
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794053739536,
+      "steps": 2345,
+      "input": 91341978,
+      "output": 7306199,
+      "delta_steps": 2,
+      "delta_input": 30112,
+      "delta_output": 1378,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2345,
+          "input": 91341978,
+          "cache": 146575797,
+          "output": 7306199
+        }
+      }
+    },
+    {
+      "checkpoint": "fase0_ocr_14threads",
+      "epoch_ms": 1794053800468,
+      "steps": 2346,
+      "input": 91349495,
+      "output": 7306629,
+      "delta_steps": 1,
+      "delta_input": 7517,
+      "delta_output": 430,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2346,
+          "input": 91349495,
+          "cache": 146605911,
+          "output": 7306629
+        }
+      }
+    },
+    {
+      "checkpoint": "fase0_ocr_14threads_ok",
+      "epoch_ms": 1794054399460,
+      "steps": 2349,
+      "input": 91358607,
+      "output": 7307368,
+      "delta_steps": 2,
+      "delta_input": 5571,
+      "delta_output": 609,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2349,
+          "input": 91358607,
+          "cache": 146717627,
+          "output": 7307368
+        }
+      }
+    },
+    {
+      "checkpoint": "323410.KS_f5_guion_EXIT0",
+      "epoch_ms": 1794070067870,
+      "steps": 4347,
+      "input": 121464905,
+      "output": 13190961,
+      "delta_steps": 1997,
+      "delta_input": 30102019,
+      "delta_output": 5883204,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4347,
+          "input": 121464905,
+          "cache": 301339333,
+          "output": 13190961
+        }
+      }
+    },
+    {
+      "checkpoint": "3990.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794070253654,
+      "steps": 4393,
+      "input": 122054515,
+      "output": 13319156,
+      "delta_steps": 41,
+      "delta_input": 535804,
+      "delta_output": 36594,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4393,
+          "input": 122054515,
+          "cache": 306057162,
+          "output": 13319156
+        }
+      }
+    },
+    {
+      "checkpoint": "6030.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794071064808,
+      "steps": 4548,
+      "input": 123872214,
+      "output": 13664713,
+      "delta_steps": 151,
+      "delta_input": 1793523,
+      "delta_output": 325056,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4548,
+          "input": 123872214,
+          "cache": 318052217,
+          "output": 13664713
+        }
+      }
+    },
+    {
+      "checkpoint": "6687.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794071692843,
+      "steps": 4635,
+      "input": 125435473,
+      "output": 13918295,
+      "delta_steps": 83,
+      "delta_input": 1363020,
+      "delta_output": 211740,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4635,
+          "input": 125435473,
+          "cache": 324681556,
+          "output": 13918295
+        }
+      }
+    },
+    {
+      "checkpoint": "6881.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794072979944,
+      "steps": 4806,
+      "input": 129459003,
+      "output": 14502599,
+      "delta_steps": 166,
+      "delta_input": 3831185,
+      "delta_output": 473833,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4806,
+          "input": 129459003,
+          "cache": 341465067,
+          "output": 14502599
+        }
+      }
+    },
+    {
+      "checkpoint": "696.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794073474717,
+      "steps": 4857,
+      "input": 130459734,
+      "output": 14642979,
+      "delta_steps": 48,
+      "delta_input": 981511,
+      "delta_output": 93640,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4857,
+          "input": 130459734,
+          "cache": 346699377,
+          "output": 14642979
+        }
+      }
+    },
+    {
+      "checkpoint": "762.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794074376722,
+      "steps": 4973,
+      "input": 133345493,
+      "output": 14946821,
+      "delta_steps": 113,
+      "delta_input": 2626672,
+      "delta_output": 263440,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4973,
+          "input": 133345493,
+          "cache": 355194036,
+          "output": 14946821
+        }
+      }
+    },
+    {
+      "checkpoint": "86.HK_f4_derivatives_EXIT0",
+      "epoch_ms": 1794075943003,
+      "steps": 5145,
+      "input": 135098051,
+      "output": 15373687,
+      "delta_steps": 168,
+      "delta_input": 1711473,
+      "delta_output": 351708,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5145,
+          "input": 135098051,
+          "cache": 370053514,
+          "output": 15373687
+        }
+      }
+    },
+    {
+      "checkpoint": "86.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794076354101,
+      "steps": 5172,
+      "input": 135743263,
+      "output": 15463026,
+      "delta_steps": 26,
+      "delta_input": 642350,
+      "delta_output": 88865,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5172,
+          "input": 135743263,
+          "cache": 371046683,
+          "output": 15463026
+        }
+      }
+    },
+    {
+      "checkpoint": "8595.T_f4_derivatives_EXIT0",
+      "epoch_ms": 1794078103368,
+      "steps": 5480,
+      "input": 142384207,
+      "output": 16149051,
+      "delta_steps": 306,
+      "delta_input": 6503368,
+      "delta_output": 685183,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5480,
+          "input": 142384207,
+          "cache": 395324796,
+          "output": 16149051
+        }
+      }
+    },
+    {
+      "checkpoint": "8595.T_f5_guion_EXIT0",
+      "epoch_ms": 1794078721291,
+      "steps": 5674,
+      "input": 146435973,
+      "output": 16809272,
+      "delta_steps": 185,
+      "delta_input": 3852875,
+      "delta_output": 463605,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5674,
+          "input": 146435973,
+          "cache": 411447101,
+          "output": 16809272
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794082662465,
+      "steps": 6364,
+      "input": 160822392,
+      "output": 19371108,
+      "delta_steps": 678,
+      "delta_input": 14022302,
+      "delta_output": 2447452,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 6364,
+          "input": 160822392,
+          "cache": 469686686,
+          "output": 19371108
+        }
+      }
+    },
+    {
+      "checkpoint": "F1-F5_LLM_Completed_31_Companies",
+      "epoch_ms": 1794082769909,
+      "steps": 6370,
+      "input": 161303356,
+      "output": 19372589,
+      "delta_steps": 5,
+      "delta_input": 478221,
+      "delta_output": 1069,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 6370,
+          "input": 161303356,
+          "cache": 470127698,
+          "output": 19372589
+        }
+      }
+    },
+    {
+      "checkpoint": "f0_ocr_32_companies",
+      "epoch_ms": 1794083192012,
+      "steps": 6392,
+      "input": 161923416,
+      "output": 19383130,
+      "delta_steps": 21,
+      "delta_input": 617769,
+      "delta_output": 10234,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 6392,
+          "input": 161923416,
+          "cache": 472009258,
+          "output": 19383130
+        }
+      }
+    },
+    {
+      "checkpoint": "Cierre_Global_31_Empresas",
+      "epoch_ms": 1794109584145,
+      "steps": 8651,
+      "input": 206591817,
+      "output": 26292433,
+      "delta_steps": 2257,
+      "delta_input": 44663151,
+      "delta_output": 6908962,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 8651,
+          "input": 206591817,
+          "cache": 651067404,
+          "output": 26292433
+        }
+      }
+    },
+    {
+      "checkpoint": "ALL_32_CARTERA_1_EXIT_0_DONE",
+      "epoch_ms": 1794131400117,
+      "steps": 9978,
+      "input": 221016232,
+      "output": 31111948,
+      "delta_steps": 1324,
+      "delta_input": 14326109,
+      "delta_output": 4780729,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 9978,
+          "input": 221016232,
+          "cache": 742069745,
+          "output": 31111948
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio_cartera_1",
+      "epoch_ms": 1794132444454,
+      "steps": 10025,
+      "input": 221282929,
+      "output": 31131349,
+      "delta_steps": 46,
+      "delta_input": 264256,
+      "delta_output": 19315,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 10025,
+          "input": 221282929,
+          "cache": 744525006,
+          "output": 31131349
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794329471675,
+      "steps": 22612,
+      "input": 344914094,
+      "output": 65216191,
+      "delta_steps": 12586,
+      "delta_input": 123626010,
+      "delta_output": 34084284,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22374,
+          "input": 332309537,
+          "cache": 1665315502,
+          "output": 63494434
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 238,
+          "input": 12604557,
+          "cache": 25346880,
+          "output": 1721757
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794339894478,
+      "steps": 22811,
+      "input": 349036708,
+      "output": 65763338,
+      "delta_steps": 197,
+      "delta_input": 4117673,
+      "delta_output": 546432,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22546,
+          "input": 333467446,
+          "cache": 1689722702,
+          "output": 63626492
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    },
+    {
+      "checkpoint": "fase1_completada",
+      "epoch_ms": 1794340315166,
+      "steps": 22863,
+      "input": 349485294,
+      "output": 65912541,
+      "delta_steps": 51,
+      "delta_input": 446244,
+      "delta_output": 149043,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22598,
+          "input": 333916032,
+          "cache": 1694214566,
+          "output": 63775695
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    },
+    {
+      "checkpoint": "fase2_completada",
+      "epoch_ms": 1794340507061,
+      "steps": 22875,
+      "input": 349572725,
+      "output": 65932191,
+      "delta_steps": 11,
+      "delta_input": 85100,
+      "delta_output": 19383,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22610,
+          "input": 334003463,
+          "cache": 1695678964,
+          "output": 63795345
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    },
+    {
+      "checkpoint": "guion_validado",
+      "epoch_ms": 1794341168160,
+      "steps": 22910,
+      "input": 349983092,
+      "output": 65990010,
+      "delta_steps": 34,
+      "delta_input": 408039,
+      "delta_output": 57593,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22645,
+          "input": 334413830,
+          "cache": 1700801278,
+          "output": 63853164
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    }
+  ],
+  "history": [
+    {
+      "checkpoint": "ALL_30_EXIT_0_60SLIDES_EXCEL_DONE",
+      "epoch_ms": 1794041518111,
+      "steps": 2308,
+      "input": 90371073,
+      "output": 7219728,
+      "delta_steps": 2308,
+      "delta_input": 90371073,
+      "delta_output": 7219728,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2308,
+          "input": 90371073,
+          "cache": 142691618,
+          "output": 7219728
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794052708406,
+      "steps": 2342,
+      "input": 91204608,
+      "output": 7304369,
+      "delta_steps": 34,
+      "delta_input": 833535,
+      "delta_output": 84641,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2342,
+          "input": 91204608,
+          "cache": 146562895,
+          "output": 7304369
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794053739536,
+      "steps": 2345,
+      "input": 91341978,
+      "output": 7306199,
+      "delta_steps": 2,
+      "delta_input": 30112,
+      "delta_output": 1378,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2345,
+          "input": 91341978,
+          "cache": 146575797,
+          "output": 7306199
+        }
+      }
+    },
+    {
+      "checkpoint": "fase0_ocr_14threads",
+      "epoch_ms": 1794053800468,
+      "steps": 2346,
+      "input": 91349495,
+      "output": 7306629,
+      "delta_steps": 1,
+      "delta_input": 7517,
+      "delta_output": 430,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2346,
+          "input": 91349495,
+          "cache": 146605911,
+          "output": 7306629
+        }
+      }
+    },
+    {
+      "checkpoint": "fase0_ocr_14threads_ok",
+      "epoch_ms": 1794054399460,
+      "steps": 2349,
+      "input": 91358607,
+      "output": 7307368,
+      "delta_steps": 2,
+      "delta_input": 5571,
+      "delta_output": 609,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 2349,
+          "input": 91358607,
+          "cache": 146717627,
+          "output": 7307368
+        }
+      }
+    },
+    {
+      "checkpoint": "323410.KS_f5_guion_EXIT0",
+      "epoch_ms": 1794070067870,
+      "steps": 4347,
+      "input": 121464905,
+      "output": 13190961,
+      "delta_steps": 1997,
+      "delta_input": 30102019,
+      "delta_output": 5883204,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4347,
+          "input": 121464905,
+          "cache": 301339333,
+          "output": 13190961
+        }
+      }
+    },
+    {
+      "checkpoint": "3990.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794070253654,
+      "steps": 4393,
+      "input": 122054515,
+      "output": 13319156,
+      "delta_steps": 41,
+      "delta_input": 535804,
+      "delta_output": 36594,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4393,
+          "input": 122054515,
+          "cache": 306057162,
+          "output": 13319156
+        }
+      }
+    },
+    {
+      "checkpoint": "6030.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794071064808,
+      "steps": 4548,
+      "input": 123872214,
+      "output": 13664713,
+      "delta_steps": 151,
+      "delta_input": 1793523,
+      "delta_output": 325056,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4548,
+          "input": 123872214,
+          "cache": 318052217,
+          "output": 13664713
+        }
+      }
+    },
+    {
+      "checkpoint": "6687.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794071692843,
+      "steps": 4635,
+      "input": 125435473,
+      "output": 13918295,
+      "delta_steps": 83,
+      "delta_input": 1363020,
+      "delta_output": 211740,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4635,
+          "input": 125435473,
+          "cache": 324681556,
+          "output": 13918295
+        }
+      }
+    },
+    {
+      "checkpoint": "6881.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794072979944,
+      "steps": 4806,
+      "input": 129459003,
+      "output": 14502599,
+      "delta_steps": 166,
+      "delta_input": 3831185,
+      "delta_output": 473833,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4806,
+          "input": 129459003,
+          "cache": 341465067,
+          "output": 14502599
+        }
+      }
+    },
+    {
+      "checkpoint": "696.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794073474717,
+      "steps": 4857,
+      "input": 130459734,
+      "output": 14642979,
+      "delta_steps": 48,
+      "delta_input": 981511,
+      "delta_output": 93640,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4857,
+          "input": 130459734,
+          "cache": 346699377,
+          "output": 14642979
+        }
+      }
+    },
+    {
+      "checkpoint": "762.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794074376722,
+      "steps": 4973,
+      "input": 133345493,
+      "output": 14946821,
+      "delta_steps": 113,
+      "delta_input": 2626672,
+      "delta_output": 263440,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 4973,
+          "input": 133345493,
+          "cache": 355194036,
+          "output": 14946821
+        }
+      }
+    },
+    {
+      "checkpoint": "86.HK_f4_derivatives_EXIT0",
+      "epoch_ms": 1794075943003,
+      "steps": 5145,
+      "input": 135098051,
+      "output": 15373687,
+      "delta_steps": 168,
+      "delta_input": 1711473,
+      "delta_output": 351708,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5145,
+          "input": 135098051,
+          "cache": 370053514,
+          "output": 15373687
+        }
+      }
+    },
+    {
+      "checkpoint": "86.HK_f5_guion_EXIT0",
+      "epoch_ms": 1794076354101,
+      "steps": 5172,
+      "input": 135743263,
+      "output": 15463026,
+      "delta_steps": 26,
+      "delta_input": 642350,
+      "delta_output": 88865,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5172,
+          "input": 135743263,
+          "cache": 371046683,
+          "output": 15463026
+        }
+      }
+    },
+    {
+      "checkpoint": "8595.T_f4_derivatives_EXIT0",
+      "epoch_ms": 1794078103368,
+      "steps": 5480,
+      "input": 142384207,
+      "output": 16149051,
+      "delta_steps": 306,
+      "delta_input": 6503368,
+      "delta_output": 685183,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5480,
+          "input": 142384207,
+          "cache": 395324796,
+          "output": 16149051
+        }
+      }
+    },
+    {
+      "checkpoint": "8595.T_f5_guion_EXIT0",
+      "epoch_ms": 1794078721291,
+      "steps": 5674,
+      "input": 146435973,
+      "output": 16809272,
+      "delta_steps": 185,
+      "delta_input": 3852875,
+      "delta_output": 463605,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 5674,
+          "input": 146435973,
+          "cache": 411447101,
+          "output": 16809272
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794082662465,
+      "steps": 6364,
+      "input": 160822392,
+      "output": 19371108,
+      "delta_steps": 678,
+      "delta_input": 14022302,
+      "delta_output": 2447452,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 6364,
+          "input": 160822392,
+          "cache": 469686686,
+          "output": 19371108
+        }
+      }
+    },
+    {
+      "checkpoint": "F1-F5_LLM_Completed_31_Companies",
+      "epoch_ms": 1794082769909,
+      "steps": 6370,
+      "input": 161303356,
+      "output": 19372589,
+      "delta_steps": 5,
+      "delta_input": 478221,
+      "delta_output": 1069,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 6370,
+          "input": 161303356,
+          "cache": 470127698,
+          "output": 19372589
+        }
+      }
+    },
+    {
+      "checkpoint": "f0_ocr_32_companies",
+      "epoch_ms": 1794083192012,
+      "steps": 6392,
+      "input": 161923416,
+      "output": 19383130,
+      "delta_steps": 21,
+      "delta_input": 617769,
+      "delta_output": 10234,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 6392,
+          "input": 161923416,
+          "cache": 472009258,
+          "output": 19383130
+        }
+      }
+    },
+    {
+      "checkpoint": "Cierre_Global_31_Empresas",
+      "epoch_ms": 1794109584145,
+      "steps": 8651,
+      "input": 206591817,
+      "output": 26292433,
+      "delta_steps": 2257,
+      "delta_input": 44663151,
+      "delta_output": 6908962,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 8651,
+          "input": 206591817,
+          "cache": 651067404,
+          "output": 26292433
+        }
+      }
+    },
+    {
+      "checkpoint": "ALL_32_CARTERA_1_EXIT_0_DONE",
+      "epoch_ms": 1794131400117,
+      "steps": 9978,
+      "input": 221016232,
+      "output": 31111948,
+      "delta_steps": 1324,
+      "delta_input": 14326109,
+      "delta_output": 4780729,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 9978,
+          "input": 221016232,
+          "cache": 742069745,
+          "output": 31111948
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio_cartera_1",
+      "epoch_ms": 1794132444454,
+      "steps": 10025,
+      "input": 221282929,
+      "output": 31131349,
+      "delta_steps": 46,
+      "delta_input": 264256,
+      "delta_output": 19315,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 10025,
+          "input": 221282929,
+          "cache": 744525006,
+          "output": 31131349
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794329471675,
+      "steps": 22612,
+      "input": 344914094,
+      "output": 65216191,
+      "delta_steps": 12586,
+      "delta_input": 123626010,
+      "delta_output": 34084284,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22374,
+          "input": 332309537,
+          "cache": 1665315502,
+          "output": 63494434
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 238,
+          "input": 12604557,
+          "cache": 25346880,
+          "output": 1721757
+        }
+      }
+    },
+    {
+      "checkpoint": "inicio",
+      "epoch_ms": 1794339894478,
+      "steps": 22811,
+      "input": 349036708,
+      "output": 65763338,
+      "delta_steps": 197,
+      "delta_input": 4117673,
+      "delta_output": 546432,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22546,
+          "input": 333467446,
+          "cache": 1689722702,
+          "output": 63626492
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    },
+    {
+      "checkpoint": "fase1_completada",
+      "epoch_ms": 1794340315166,
+      "steps": 22863,
+      "input": 349485294,
+      "output": 65912541,
+      "delta_steps": 51,
+      "delta_input": 446244,
+      "delta_output": 149043,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22598,
+          "input": 333916032,
+          "cache": 1694214566,
+          "output": 63775695
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    },
+    {
+      "checkpoint": "fase2_completada",
+      "epoch_ms": 1794340507061,
+      "steps": 22875,
+      "input": 349572725,
+      "output": 65932191,
+      "delta_steps": 11,
+      "delta_input": 85100,
+      "delta_output": 19383,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22610,
+          "input": 334003463,
+          "cache": 1695678964,
+          "output": 63795345
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    },
+    {
+      "checkpoint": "guion_validado",
+      "epoch_ms": 1794341168160,
+      "steps": 22910,
+      "input": 349983092,
+      "output": 65990010,
+      "delta_steps": 34,
+      "delta_input": 408039,
+      "delta_output": 57593,
+      "models": {
+        "antigravity | gemini-3.8-flash": {
+          "steps": 22645,
+          "input": 334413830,
+          "cache": 1700801278,
+          "output": 63853164
+        },
+        "commandcode | inclusionai/ling-3.1-flash-1019": {
+          "steps": 265,
+          "input": 15569262,
+          "cache": 30460096,
+          "output": 2136846
+        }
+      }
+    }
+  ],
+  "scope": {
+    "workspace": "agent-stock-analysis"
+  },
+  "reset_epoch_ms": 1794003120404,
+  "last_epoch_ms": 1794341168160
+}

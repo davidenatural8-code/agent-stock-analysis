@@ -1,20 +1,26 @@
 @"
-# Entornos y credenciales
-.env
-*.env
-secrets.json
+# 1. Ignorar todo en la raíz por defecto
+/*
+
+# 2. Permitir archivos base en la raíz
+!/.gitignore
+!/requirements.txt
+!/runner.py
+
+# 3. Abrir paso solo hasta la carpeta de skills
+!/.agents/
+/.agents/*
+!/.agents/skills/
+/.agents/skills/*
+
+# 4. Permitir deep-research-gauntlet-loop el skill del informe (y añade otra línea igual si usa un 2º skill auxiliar)
+!/.agents/skills/deep-research-gauntlet-loop/
+
+# 5. Ignorar temporales de Python o claves dentro del skill permitido
 __pycache__/
 *.py[cod]
-.venv/
-venv/
-
-# Cachés OCR, PDFs pesados y salidas generadas
+.env
+*.env
 extracted_ocr_cache/
-input_pdfs/
 output/
-*.pdf
-*.pptx
-*.docx
-*.wav
-*.mp3
 "@ | Out-File -FilePath .gitignore -Encoding utf8

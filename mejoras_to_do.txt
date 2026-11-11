@@ -1,1 +1,0 @@
-C:\Users\david\Desktop\Momentum\TO_PROCESS\AI\3200.HK\charts\chart3 does es muy feo: la etiqueta  de la izquierda ocupa mitad de ancho, y el digrama de la derecha es muy pequeno y no se vee nada... para todos los charts, asegurate que no pase este problema, donde las etiqueta ocupan mucho ancho o alto!!!!! 
